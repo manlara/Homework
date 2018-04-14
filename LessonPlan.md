@@ -1,6 +1,7 @@
 ### Instructor Do: Adding files to Github
 
 * Close out class by going over how to submit a homework assignment in Github. Explain to students that "GitHub offers a centralized location where all developers can push and pull (upload and download) their code. This means that GitHub always holds the most up-to-date code and files, handling everyone's updates appropriately. For now, students will only need to know how to use the GUI for GitHub in order to submit homework. However, In a couple of weeks, students will learn to work with GitHub through the terminal using git.
+AAA
 
 * Have the students follow along with the following steps:
 
